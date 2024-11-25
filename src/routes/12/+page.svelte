@@ -80,7 +80,7 @@
 <h1
   class="text-base-content text-3xl sm:ml-32 font-bold sm:text-left text-center mt-4"
 >
-  🧪 Practical
+  🧪 Practical (PBA)
 </h1>
 
 <div
