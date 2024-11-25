@@ -3,7 +3,7 @@
     class="dropdown sm:dropdown-start dropdown-center sm:ml-32 mx-auto mt-8 mb-5"
   >
     <div tabindex="0" role="button" class="">
-      <p class="text-xl underline underline-offset-4">Change Class</p>
+      <p class="text-xl underline underline-offset-4 animate-bounce">Change Class</p>
     </div>
     <ul
       class="dropdown-content menu bg-base-100 rounded-box z-[1] w-52 p-2 shadow"

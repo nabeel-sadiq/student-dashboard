@@ -24,7 +24,7 @@
     </div>
     <div class="tooltip tooltip-right" data-tip="Notes & Syllabus">
       <li>
-        <a href="/" aria-label="icon">
+        <a href="/notes" aria-label="icon">
           <svg
             xmlns="http://www.w3.org/2000/svg"
             class="h-5 w-5"
@@ -47,7 +47,6 @@
         <a
           href="https://github.com/nabeel-sadiq/student-dashboard"
           aria-label="icon"
-          target="_blank"
         >
           <svg
             xmlns="http://www.w3.org/2000/svg"
