@@ -18,10 +18,10 @@
   ];
 
   const practicalLinks = [
+    "https://fbise.edu.pk/ModelPaper/2025/Practical%20Based%20Assessment/Final%20Model%20Quesiton%20Paper%20PBA%20Chemistry%20SSC-II.pdf#page=3",
     "https://fbise.edu.pk/ModelPaper/2025/Practical%20Based%20Assessment/Final%20Model%20Quesiton%20Paper%20PBA%20Biology%20SSC-II.pdf#page=3",
-    "https://example.com/practical-2",
-    "https://example.com/practical-3",
-    "https://example.com/practical-4",
+    "https://fbise.edu.pk/ModelPaper/2025/Practical%20Based%20Assessment/Final%20Model%20Quesiton%20Paper%20PBA%20%20Physics%20SSC-II.pdf#page=3",
+    "https://fbise.edu.pk/ModelPaper/2025/Practical%20Based%20Assessment/Final%20Model%20Quesiton%20Paper%20PBA%20%20Computer%20Science%20SSC-II.pdf#page=3",
   ];
 </script>
 

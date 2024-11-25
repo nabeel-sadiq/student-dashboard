@@ -6,22 +6,21 @@
   import Downbar from "../../components/Downbar.svelte";
 
   const theoryLinks = [
-    "https://fbise.edu.pk/ModelPaper/2024New/urdu/Final_Assessment_Framework_Model_Question_Paper_Urdu_SSC-I.pdf#page=19",
-    "https://fbise.edu.pk/ModelPaper/2024New/english/Final_Assessment_Framework_Model_Question_Paper_English_SSC-I.pdf#page=30",
-    "https://fbise.edu.pk/ModelPaper/2024New/islamiyat/Islamiyat%20Model%20Paper%20SSC-I%20(SNC%202022)%20Final.pdf",
-    "https://fbise.edu.pk/ModelPaper/2024New/pst/Final_Assessment_Framework_Model_Question_Paper_PakistanStudies_SSC-I.pdf#page=15",
-    "https://fbise.edu.pk/ModelPaper/2024New/chemistry/Final_Assessment_Framework_Model_Question_Paper_Chemistry_SSC-I%20Latest.pdf#page=30",
-    "https://fbise.edu.pk/ModelPaper/2024New/bio/Final_Assessment_Framework_Model_Question_Paper_Biology_SSC-I.pdf#page=21",
-    "https://fbise.edu.pk/ModelPaper/2024New/physics/Final_Assessment_Framework_Model_Question_Paper_Physics_SSC-I.pdf#page=28",
-    "https://fbise.edu.pk/ModelPaper/2024New/computer/Final_Assessment_Framework_Model_Question_Paper_ComputerScience_SSC-I.pdf#page=25",
-    "https://fbise.edu.pk/ModelPaper/2024New/maths/Final_Assessment_Framework_Model_Question_Paper_Mathematics_SSC-I.pdf#page=17",
+    "https://fbise.edu.pk/ModelPaper/2024New/urdu/Final%20HSSC-II%20Model%20Paper%20Urdu.pdf#page=4",
+    "https://fbise.edu.pk/ModelPaper/2024New/english/Final_English%20HSSC-II_merged.pdf#page=13",
+    "https://fbise.edu.pk/ModelPaper/2024New/pst/Final%20HSSC-II%20Pakistan%20Studies%20Model%20Paper.pdf",
+    "https://fbise.edu.pk/ModelPaper/2024New/chemistry/Final%20HSSC-II%20Chemistry%20Model%20paper%20Merged.pdf",
+    "https://fbise.edu.pk/ModelPaper/2024New/bio/Final%20HSSC-II%20Biology%20Model%20paper.pdf",
+    "https://fbise.edu.pk/ModelPaper/2024New/physics/Final%20Model%20paper%20Physics%20HSSC-II%20revised.pdf",
+    "https://fbise.edu.pk/ModelPaper/2024New/computer/Final%20HSSC-II%20Model%20Paper%20Computer%20Science.pdf",
+    "https://fbise.edu.pk/ModelPaper/2024New/maths/Notification%20-%20Maths%20Model%20Question%20Paper%20HSSC-II%20(2006).pdf#page=2",
   ];
 
   const practicalLinks = [
-    "https://example.com/practical-1",
-    "https://example.com/practical-2",
-    "https://example.com/practical-3",
-    "https://example.com/practical-4",
+    "https://fbise.edu.pk/ModelPaper/2025/Practical%20Based%20Assessment/Final%20Model%20Quesiton%20Paper%20PBA%20Chemistry%20HSSC-II.pdf#page=3",
+    "https://fbise.edu.pk/ModelPaper/2025/Practical%20Based%20Assessment/Final%20Model%20Quesiton%20Paper%20PBA%20Biology%20HSSC-II.pdf#page=3",
+    "https://fbise.edu.pk/ModelPaper/2025/Practical%20Based%20Assessment/Final%20Model%20Quesiton%20Paper%20PBA%20%20Physics%20HSSC-II.pdf#page=3",
+    "https://fbise.edu.pk/ModelPaper/2025/Practical%20Based%20Assessment/Final%20Model%20Quesiton%20Paper%20PBA%20%20Computer%20Science%20HSSC-II.pdf#page=3",
   ];
 </script>
 
@@ -47,39 +46,34 @@
     link={theoryLinks[1]}
   />
   <Card
-    title="12th Islamiyat Theory"
-    description="12th islamiyat theory model paper"
-    link={theoryLinks[2]}
-  />
-  <Card
     title="12th Pak. Studies Theory"
     description="12th pak.st theory model paper"
-    link={theoryLinks[3]}
+    link={theoryLinks[2]}
   />
   <Card
     title="12th Chemistry Theory"
     description="12th chemistry theory model paper"
-    link={theoryLinks[4]}
+    link={theoryLinks[3]}
   />
   <Card
     title="12th Biology Theory"
     description="12th biology theory model paper"
-    link={theoryLinks[5]}
+    link={theoryLinks[4]}
   />
   <Card
     title="12th Physics Theory"
     description="12th physics theory model paper"
-    link={theoryLinks[6]}
+    link={theoryLinks[5]}
   />
   <Card
     title="12th Computer Theory"
     description="12th computer theory model paper"
-    link={theoryLinks[7]}
+    link={theoryLinks[6]}
   />
   <Card
     title="12th Maths Theory"
     description="12th maths theory model paper"
-    link={theoryLinks[8]}
+    link={theoryLinks[7]}
   />
 </div>
 

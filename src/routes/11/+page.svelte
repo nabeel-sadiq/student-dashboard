@@ -6,15 +6,14 @@
   import Downbar from "../../components/Downbar.svelte";
 
   const theoryLinks = [
-    "https://fbise.edu.pk/ModelPaper/2024New/urdu/Final_Assessment_Framework_Model_Question_Paper_Urdu_SSC-I.pdf#page=19",
-    "https://fbise.edu.pk/ModelPaper/2024New/english/Final_Assessment_Framework_Model_Question_Paper_English_SSC-I.pdf#page=30",
-    "https://fbise.edu.pk/ModelPaper/2024New/islamiyat/Islamiyat%20Model%20Paper%20SSC-I%20(SNC%202022)%20Final.pdf",
-    "https://fbise.edu.pk/ModelPaper/2024New/pst/Final_Assessment_Framework_Model_Question_Paper_PakistanStudies_SSC-I.pdf#page=15",
-    "https://fbise.edu.pk/ModelPaper/2024New/chemistry/Final_Assessment_Framework_Model_Question_Paper_Chemistry_SSC-I%20Latest.pdf#page=30",
-    "https://fbise.edu.pk/ModelPaper/2024New/bio/Final_Assessment_Framework_Model_Question_Paper_Biology_SSC-I.pdf#page=21",
-    "https://fbise.edu.pk/ModelPaper/2024New/physics/Final_Assessment_Framework_Model_Question_Paper_Physics_SSC-I.pdf#page=28",
-    "https://fbise.edu.pk/ModelPaper/2024New/computer/Final_Assessment_Framework_Model_Question_Paper_ComputerScience_SSC-I.pdf#page=25",
-    "https://fbise.edu.pk/ModelPaper/2024New/maths/Final_Assessment_Framework_Model_Question_Paper_Mathematics_SSC-I.pdf#page=17",
+    "https://fbise.edu.pk/ModelPaper/2024New/urdu/Final_Assessment_Framework_Model_Question_Paper_Urdu_HSSC-I.pdf#page=19",
+    "https://fbise.edu.pk/ModelPaper/2024New/english/Final_Assessment_Framework_Model_Question_Paper_English_HSSC-I%20(2).pdf#page=31",
+    "https://fbise.edu.pk/ModelPaper/2024New/islamiyat/Final_Assessment_Framework_Model_Question_Paper_Islamiyat_HSSC-I.pdf#page=11",
+    "https://fbise.edu.pk/ModelPaper/2024New/chemistry/Final_Assessment_Framework_Model_Question_Paper_Chemistry_HSSC-I.pdf#page=39",
+    "https://fbise.edu.pk/ModelPaper/2024New/bio/Final_Assessment_Framework_Model_Question_Paper_Biology_HSSC-I.pdf#page=40",
+    "https://fbise.edu.pk/ModelPaper/2024New/physics/Final_Assessment_Framework_Model_Question_Paper_Physics_HSSC-I.pdf#page=27",
+    "https://fbise.edu.pk/ModelPaper/2024New/computer/Final_Assessment_Framework_Model_Question_Paper_ComputetScience_HSSC-I.pdf#page=24",
+    "https://fbise.edu.pk/ModelPaper/2024New/maths/Final_Assessment_Framework_Model_Question_Paper_Mathematics_HSSC-I_.pdf#page=18",
   ];
 </script>
 
@@ -45,34 +44,29 @@
     link={theoryLinks[2]}
   />
   <Card
-    title="11th Pak. Studies Theory"
-    description="11th pak.st theory model paper"
-    link={theoryLinks[3]}
-  />
-  <Card
     title="11th Chemistry Theory"
     description="11th chemistry theory model paper"
-    link={theoryLinks[4]}
+    link={theoryLinks[3]}
   />
   <Card
     title="11th Biology Theory"
     description="11th biology theory model paper"
-    link={theoryLinks[5]}
+    link={theoryLinks[4]}
   />
   <Card
     title="11th Physics Theory"
     description="11th physics theory model paper"
-    link={theoryLinks[6]}
+    link={theoryLinks[5]}
   />
   <Card
     title="11th Computer Theory"
     description="11th computer theory model paper"
-    link={theoryLinks[7]}
+    link={theoryLinks[6]}
   />
   <Card
     title="11th Maths Theory"
     description="11th maths theory model paper"
-    link={theoryLinks[8]}
+    link={theoryLinks[7]}
   />
 </div>
 
